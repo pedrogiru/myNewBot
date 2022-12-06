@@ -1,0 +1,28 @@
+# private
+
+.env
+
+# generated dir
+
+/dist
+/temp
+/data
+
+# node
+
+node_modules
+
+# code editor
+
+.idea
+.vscode
+
+# package managers
+
+.npm
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
